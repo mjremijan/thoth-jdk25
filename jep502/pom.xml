@@ -6,10 +6,10 @@
         <artifactId>thoth-jdk25</artifactId>
         <version>1.0.0.0-SNAPSHOT</version>
     </parent>
-    <artifactId>thoth-jdk25-jep470</artifactId>
+    <artifactId>thoth-jdk25-jep502</artifactId>
     <packaging>jar</packaging>
     <properties>
-        <exec.mainClass>org.thoth.jdk25.jep470.main.Main</exec.mainClass>
+        <exec.mainClass>org.thoth.jdk25.jep502.main.Main</exec.mainClass>
     </properties>
     <description>
        See README.md
