@@ -37,5 +37,6 @@
     <modules>
         <module>jep470</module>
         <module>jep502</module>
+        <module>jep503</module>
     </modules>
 </project>
