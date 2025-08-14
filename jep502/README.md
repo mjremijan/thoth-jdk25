@@ -1,9 +1,11 @@
 
 # thoth-jdk25-jep502
 
-**PEM Stable Values (Preview)**
+## PEM Stable Values (Preview)
 
- (https://openjdk.org/jeps/502)
+**Notes**
+
+<https://openjdk.org/jeps/502>
         
 Introduce an API for stable values, which are objects that hold immutable data. 
 Stable values are treated as constants by the JVM, enabling the same performance 
